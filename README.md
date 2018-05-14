@@ -26,5 +26,5 @@ npm run e2e
 # run all tests
 npm test
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+说明:
+改实例功能主要是实现页面前进刷新；后退不刷新数据；也就是说一级路由跳转到二级路由时；二级路由页面重新渲染；但是从二级路由返回一级路由不渲染；使用vue缓存技术，但是一级路由之间的切换是要重新渲染数据的；

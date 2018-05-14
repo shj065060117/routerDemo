@@ -1,0 +1,37 @@
+html{margin:0;padding:0;border:0; -ms-text-size-adjust: 100%;-webkit-text-size-adjust:100%;height:100%;font-family: "microsoft yahei";font-size: .2rem;}
+body{font-family:"microsoft yahei",tahoma,arial;font-size: 14px;
+  /* 防止点击闪烁 */
+  -webkit-tap-highlight-color:rgba(0,0,0,0);
+ /* 缩放网页，文字大小不变 */
+ -webkit-text-size-adjust:none;
+ width: 750px;
+ margin: 0 auto;
+}
+body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,code,del,dfn,em,img,q,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,dialog,figure,footer,header,hgroup,nav,section{margin:0;padding:0;border:0; font-size: .14px; color: #333;}
+article,aside,details,figcaption,figure,dialog,footer,header,hgroup,menu,nav,section{display:block;padding: 0;margin: 0;}
+body{line-height:1.5;background:white;}
+p{font-family:"microsoft yahei",tahoma,arial;font-size: .2rem;line-height: 1.5;}
+div{font-family:"microsoft yahei",tahoma,arial;font-size: .2rem;layout-grid-char: 1.5;}
+table{border-collapse:separate;border-spacing:0}
+caption,th,td{text-align:left;font-weight:normal;float:none!important}
+table,th,td{vertical-align:middle}
+blockquote:before,blockquote:after,q:before,q:after{content:''}
+blockquote,q{quotes:""""}
+a img{border:0}
+:focus{outline:0}
+ul,ol,li{list-style:none}
+button,input,select,textarea,label{vertical-align:middle}
+h1,h2,h3,h4,h6,h6{font-weight:bold;font-size:2rem}
+a:link{text-decoration:none;color:#333}
+a:visited{text-decoration:none}
+a:hover{text-decoration:none}
+select { -webkit-appearance: none; }
+input[type="submit"],input[type="reset"],input[type="checkbox"],input[type="button"],button { -webkit-appearance: none; }
+.align-r{text-align:right}
+.align-c{text-align:center}
+.align-l{text-align:left}
+.bold{font-weight:bold}
+.hide{display:none}
+.clearfix:after{clear:both;content:'.';display:block;font-size:0;line-height:0;visibility:hidden;height:0}
+.clearfix{zoom:1}
+::-webkit-scrollbar{background: transparent;} 
